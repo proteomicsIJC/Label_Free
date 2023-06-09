@@ -1,0 +1,9 @@
+/plots
+/plots/**
+/raw_data
+/raw_data/**
+/results
+/results/**
+./Rhistory
+/**.html
+/TMT_PEAKS_Workflow_user.RMD
