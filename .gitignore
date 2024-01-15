@@ -6,4 +6,6 @@
 /results/**
 ./Rhistory
 /**.html
+/**.png
 /TMT_PEAKS_Workflow_user.RMD
+.Rhistory
